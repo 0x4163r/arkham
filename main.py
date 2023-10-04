@@ -1,4 +1,4 @@
-cffrom core.autoreger import AutoReger
+from core.autoreger import AutoReger
 
 
 def main():
