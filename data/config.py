@@ -1,4 +1,4 @@
-REFERRAL_EMAIL = "vanyakorochuk@gmail.com"
+REFERRAL_EMAIL = ""
 THREADS = 1  # Enter amount of threads
 CUSTOM_DELAY = (0, 2)  # (from 1 seconds, to 3 seconds), delay before every registration in seconds
 
