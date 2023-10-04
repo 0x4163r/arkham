@@ -73,8 +73,7 @@ class Arkham(MailUtils, CustomFaker):
         return self.email == response.text.strip().strip('"')
 
     def get_verify_code(self):
-        result = self.get_msg(subject='Arkham Email Verification', from_='accounts@arkhamintelligence.com',
-                              to=self.email, limit=2)
+        result = self.get_msg(subject='Arkham Email Verification', from_='accounts@arkhamintelligence.com', limit=2)
         return str(result["msg"]).split("signup process:")[1].split("If you did not")[0].strip()
 
     def register(self, verify_code: str):
