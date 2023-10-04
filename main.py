@@ -1,9 +1,8 @@
-from colorama import Fore, Style
 cffrom core.autoreger import AutoReger
 
 
 def main():
-    print(f"\n{Fore.GREEN}ELRMCF Crypto: https://t.me/elrmcfcrypto{Style.RESET_ALL}\n")
+    print(f"\nELRMCF Crypto: https://t.me/elrmcfcrypto\n")
 
     AutoReger().start()
 
