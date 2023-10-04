@@ -1,5 +1,5 @@
 # Arkham AutoReger
-# Main <crypto/> moves in telegram: [@web3_enjoyer_club](https://t.me/+tdC-PXRzhnczNDli)
+# Main <crypto/> moves in telegram: [@elrmcfcrypto](https://t.me/elrmcfcrypto)
 
 ## Can change params in inputs/config.py ![image](https://github.com/MsLolita/arkham/assets/58307006/7283db23-c00a-474c-883f-a1d5930324cf)
 
